@@ -304,18 +304,15 @@ It enforces the same rules that separate Awwwards-tier work from template output
 
 ---
 
-## Credits & Lineage
+## Inspiration
 
-Built by merging and advancing the strongest ideas from:
+Systems like taste-skill, emilkowalski/skills, transitions.dev, dialkit, and gstack design-review were used as inspiration for this project. But installing all of them individually into your coding agent means every request pays the token cost of every skill, and managing them separately wastes time too.
 
-- **taste-skill** (leonxlnx) - the Three Dials, anti-slop research, redesign protocol
-- **emilkowalski/skills** - animation discipline, easing rules, "what not to animate"
-- **transitions.dev** (Jakubantalik) - the 18-transition library, CSS-first tokens
-- **dialkit** (joshpuckett) - parameter-driven interface tuning philosophy
-- **gstack design-review** - iterative fix-commit-screenshot verification loop
-- **The AGENT framework + DATA loop** - identity files, manager/specialist structure, staged trust
+WEBSITE-PRO solves this: everything is merged, advanced, and re-engineered into one context-engineered system. Better outcomes, fraction of the token cost, zero skill-management overhead.
 
-All agent names, structures, and implementations are original.
+## Creator
+
+Built by **Kartik Pawar**.
 
 ---
 
